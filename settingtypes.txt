@@ -1,0 +1,2 @@
+# How many seconds MUSIC waits before starting the next song
+music_pause_between_songs (Pause between songs) int 15 0 3600

@@ -1,0 +1,37 @@
+### [Universal Declaration of Human Rights](https://en.wikisource.org/wiki/Universal_Declaration_of_Human_Rights) Music Pack
+
+#### Usage: 
+
+For all players:
+
+`/mvolume` <volume>  Set your individual music volume or disable background music (/mvolume 0). Saved across server restarts. <br>
+`/music_list`: list available music <br>
+With mpd privilege: <br>
+`/music_play` <id>: play a song <br>
+`/music_stop`: stop the current song. Unless /mpd_play or /mpd_next are invoked, no more music is played <br>
+`/music_next` [time]: Play the next song after [time] seconds, immediately if omitted. <br>
+## Votes: <br>
+This mod integrates with the [vote](https://content.minetest.net/metapackages/vote/) mod by rubenwardy  <br>
+`/vote_music_next` - vote to start next song <br>
+`/vote_music_play` <id> - Vote to play certain sing <br>
+	
+	
+## License
+Credits and Ackowledgements <br>
+[balabolka](http://www.cross-plus-a.com/balabolka.htm) Provide music production software.
+	
+#### License of source code:LGPL-2.1-only
+This mod is a fork of [mpd](https://content.minetest.net/packages/orwell/mpd/)
+
+#### License of music:CC0
+I use https://en.wikisource.org/wiki/Universal_Declaration_of_Human_Rights to generate the ogg
+	
+#### License of Text 
+All Language [Universal Declaration of Human Rights (UDHR)](https://unicode.org/udhr/index.html) <br>
+[Unicode Data Unicode® Copyright and Terms of Use](https://www.unicode.org/copyright.html) <br>
+English [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) <br>
+Русский[Universal Declaration of Human Rights](https://www.un.org/ru/about-us/universal-declaration-of-human-rights) <br>
+Español[Universal Declaration of Human Rights](https://www.un.org/es/about-us/universal-declaration-of-human-rights) <br>
+中文[Universal Declaration of Human Rights](https://www.un.org/zh/about-us/universal-declaration-of-human-rights) <br>
+Français [Universal Declaration of Human Rights](https://www.un.org/fr/about-us/universal-declaration-of-human-rights) <br>
+العربية[Universal Declaration of Human Rights](https://www.un.org/ar/about-us/universal-declaration-of-human-rights) <br>
